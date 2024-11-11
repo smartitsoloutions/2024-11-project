@@ -1,6 +1,6 @@
-new project info
-adding code
+New project info
+Adding code
 Area
-address
-state: AP
-contact: 9955656564
+Address
+state: AP, Telangana
+Contact Number: 9955656564
