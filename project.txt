@@ -1,6 +1,6 @@
 new project info
 adding code
-location
+Area
 address
-stat
-contact
+state: AP
+contact: 9955656564
